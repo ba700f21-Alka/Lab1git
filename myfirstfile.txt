@@ -2,3 +2,5 @@ Adding my first line.
 Added a second line with text editor.
 
 Add my first Atom line.
+
+Add another line in Atom.
